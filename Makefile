@@ -1,7 +1,11 @@
-all: resume-us cv-fr
+all: resume-us cv-fr cover
 
 resume-us:
 	rst2pdf --config=rst2pdfconfig --raw-html resume-gsejourne.rst -o out/resume-gsejourne_US.pdf
 
 cv-fr:
 	rst2pdf --config=rst2pdfconfig --raw-html cv-gsejourne.rst -o out/cv-gsejourne_FR.pdf
+	
+cover:
+	rst2pdf --config=rst2pdfconfig --raw-html cover_letter.rst -o out/motivation-gsejourne_FR.pdf
+	
