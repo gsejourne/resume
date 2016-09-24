@@ -103,7 +103,7 @@ Compétences techniques
 - **Autres**: Ant, Bootstrap, Redis, No-SQL DB (Redis, Couchbase, ElasticSearch)
   and SQL Databases, PHP, Bash...
 
-Recommendations
+Recommandations
 ---------------
 
 - **Lucy Veisblat**, PDG d'eCreation, en indépendant
