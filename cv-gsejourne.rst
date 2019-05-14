@@ -8,8 +8,8 @@ Manager Publications Techniques / Ingénieur documentaire
 
 +---------------------------------------+----------------------+------------------+
 |:Adresse: France (Paris)               |:Né en: 1979          |.. image :: gs.png|
-|:Tel: [phone number]                |                      |   :scale: 95     |
-|:Email: [email address]   |                      |                  |
+|:Tel: +33 6 84 13 77 32                |                      |   :scale: 95     |
+|:Email: guillaume.sejourne@gmail.com   |                      |                  |
 +---------------------------------------+----------------------+------------------+
 
 ----
@@ -17,7 +17,22 @@ Manager Publications Techniques / Ingénieur documentaire
 Expériences
 -----------
 
-:2013-ce jour: **Manager - Technical Publications**, Cloudmark_
+:2016-ce jour: Manager - Publications techniques, Formation & Localisation, `Vade Secure <https://www.vadesecure.com/>`_
+ 
+  Création et gestion de l'équipe de communication technique.
+  Mise en place d'un système de documentation basé sur DITA, en adéquation avec les cycles de 
+  développement des équipes Ingénierie et R&D, avec système d'intégration et de déploiement continu
+  pour certains produits.
+
+  Gestion des besoins de localisation pour les interfaces produits, le marketing et la documentation
+  vers 11 langues cibles.
+  
+  Gestion de l'équipe de formateurs et mise en place d'un système LMS développé en interne 
+  (`Vade Secure Academy <https://academy.vadesecure.com/>`_) à destination des partenaires et revendeurs.
+
+  Assistance au Product Management sur les produits et APIs orientés ISP.
+
+:2013-2016: **Manager - Technical Publications**, Cloudmark_
 
   Responsable de l'équipe de Publications techniques, en charge de
   délivrer une documentation exhaustive, précise et dans les temps pour
@@ -120,8 +135,8 @@ Recommandations
 Contact
 -------
 
-* **email:** [email address]
-* **Tél:** [phone number]
+* **email:** guillaume.sejourne@gmail.com
+* **Tél:** +33 6 84 13 77 32
 * **linkedin:** https://www.linkedin.com/in/guillaumesejourne
 * **github:** https://github.com/gsejourne
 * **stackoverflow:** http://stackoverflow.com/users/2710620/guillaume-s
